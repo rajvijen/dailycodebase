@@ -13,5 +13,5 @@ Some more problems on Recursion!
 7. [WAP to reverse an integer array using recursion](./ReverseArray/)
 8. [WAP to print the Sum of `n` Natural Numbers](./NaturalSum/)
 9. [WAP to print the Sum of Squares of N natural numbers](./SumSquares/)
-10.[Flight Passenger Seat Probability Problem](./FlightPassenger/)
+10. [Flight Passenger Seat Probability Problem](./FlightPassenger/)
 
