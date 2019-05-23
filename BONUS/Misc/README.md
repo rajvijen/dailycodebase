@@ -12,3 +12,6 @@ Some Miscellaneous Problems to practise! Keep Coding :)
 6. [WAP to reverse the given array](./Reverse/)
 7. [WAP to add 2 numbers unti user explicitly quits](./MenuAdd/)
 8. [Pattern Based Problems](./Patterns/)
+9. [Lucifer Effect - Logical Problem](./LuciferEffect/)
+
+
